@@ -1,0 +1,5 @@
+name: TestPlugin
+version: '${project.version}'
+main: TestPlugin.TestPlugin
+api-version: 1.19
+description: TestPlugin
