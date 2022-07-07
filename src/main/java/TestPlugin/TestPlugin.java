@@ -15,6 +15,8 @@ public final class TestPlugin extends JavaPlugin {
 
     }
 
+    public void OnFall(){}
+
     @Override
     public void onDisable() {
         for(Player player : getServer().getOnlinePlayers()){
